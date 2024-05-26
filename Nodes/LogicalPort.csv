@@ -1,0 +1,18 @@
+id,view,portType,positionOnPort,portSpeed,name,administrativeState,operationalState,ip,usageState,positionOnDevice,positionOnCard
+118,planned,gpon,1,,ta5000-gpon-1_card_1_1_1,Active,Active,,in use,,1
+119,planned,gpon,1,,sdx-621-1-plug-1_1_1,Active,Active,,in use,1,
+124,planned,gpon,1,,cpe-c1117-4p-2/1,Active,Active,,in use,2,
+125,planned,gpon,1,,cpe-c1117-4p2/1,Active,Active,,in use,2,
+163,planned,gpon,1,10,systemtest-state-city-building-rack-1-dev-1/8/1,Active,Active,10.10.10.56,in use,8,
+165,planned,gpon,6,10,systemtest-state-city-building-rack-1-dev-1/7/6,Active,Active,10.10.10.56,in use,7,
+166,planned,gpon,1,10,systemtest-state-city-building-rack-1-dev-2/2/1/2/1,Active,Active,10.10.10.56,in use,,2
+167,planned,gpon,8,10,systemtest-state-city-building-rack-1-dev-2/2/1/1/8,Active,Active,10.10.10.56,in use,,1
+171,planned,gpon,8,10,systemtest-state-city-building-rack-1-dev-2/7/8,Active,Active,10.10.10.56,in use,7,
+172,planned,gpon,8,10,systemtest-state-city-building-rack-2-device-2/2/1/1/8,Active,Active,10.10.10.56,in use,,1
+173,planned,gpon,1,10,systemtest-state-city-building-rack-2-device-2/2/1/2/1,Active,Active,10.10.10.56,in use,,2
+191,planned,gpon,1,10,systemtest-state-city-building-rack-1-device-1/8/1,Active,Active,10.10.10.56,in use,8,
+192,planned,gpon,6,10,systemtest-state-city-building-rack-1-device-1/7/6,Active,Active,10.10.10.56,in use,7,
+193,planned,gpon,1,10,systemtest-state-city-building-rack-1-device-2/2/1/2/1,Active,Active,10.10.10.56,in use,,2
+194,planned,gpon,8,10,systemtest-state-city-building-rack-1-device-2/2/1/1/8,Active,Active,10.10.10.56,in use,,1
+216,planned,gpon,1,10,systemtest-state-city-building-rack-2-device-1/8/1,Active,Active,10.10.10.56,in use,8,
+217,planned,gpon,6,10,systemtest-state-city-building-rack-2-device-1/7/6,Active,Active,10.10.10.56,in use,7,
