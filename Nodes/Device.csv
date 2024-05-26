@@ -1,0 +1,19 @@
+id,view,deviceModel,name,location,administrativeState,operationalState,serialNumber,organisation,usageState,customer,rackPosition,managementIp
+37,planned,N540-ACC-SYS,cisco-pe-service,electronic city,Active,Active,4bbabf9875aahh,NN-ISP,in use,NN-ISP,1,192.168.10.4
+38,planned,ne40e-m2k-b frame,huawei-pe-service,"Hyderabad, Telengana",Active,Active,4bbabf9875342h,NN-ISP,in use,NN-ISP,1,192.168.10.5
+39,planned,NE05E-SQ,huawei-core,"Hyderabad, Telengana",Active,Active,4bba3435342h,NN-ISP,in use,NN-ISP,2,192.168.10.6
+40,planned,NE20E-S2F,huawei-bng,"Guindy, Tamilnadu",Active,Active,4bba6635342h,NN-ISP,in use,NN-ISP,1,192.168.10.7
+41,planned,N540-ACC-SYS,cisco-core,"Guindy, Tamilnadu",Active,Active,4bba3498742h,NN-ISP,in use,NN-ISP,4,192.168.10.9
+42,planned,N540-ACC-SYS,cisco-pe-2,"Guindy, Tamilnadu",Active,Active,4bba39218742h,NN-ISP,in use,NN-ISP,6,192.168.10.10
+74,planned,c1117-4p,cpe-c1117-4p,avadi,Active,Active,987654df12,cust-org-1,in use,cust-org-1,0,10.11.10.11
+77,planned,c1117-4p,cpe-c1117-4p-2,velachery,Active,Active,987654d992,cust-org-2,in use,cust-org-2,0,10.11.10.12
+81,planned,c1117-4p,cpe-c1117-4p-3,electronic city,Active,Active,987990992,cust-org-2,in use,cust-org-2,0,10.11.10.13
+87,planned,ta5000,ta5000-gpon-1,hyderabad,Active,Active,4bbabf562923ahh,NN-ISP,in use,NN-ISP,1,192.168.12.1
+101,planned,sdx 621,sdx-621-1,hyderabad,Active,Active,987654iortio,residential cust-1,in use,residential cust-1,0,10.11.10.19
+128,planned,N540-ACC-SYS,n540-labdev-1,Hyderabad,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,9,192.168.10.6
+147,planned,systemtest-noshelf-devicemodel,systemtest-state-city-building-rack-1-dev-1,systemTest,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,1,192.168.10.6
+148,planned,systemtest-shelf-devicemodel,systemtest-state-city-building-rack-1-dev-2,systemTest,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,9,192.168.10.15
+174,planned,systemtest-noShelf-deviceModel,systemtest-state-city-building-rack-1-device-1,Hyderabad,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,,192.168.10.6
+175,planned,systemtest-Shelf-deviceModel,systemtest-state-city-building-rack-1-device-2,Hyderabad,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,,192.168.10.6
+200,planned,systemtest-noshelf-devicemodel,systemtest-state-city-building-rack-2-device-1,systemTest,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,40,192.168.10.6
+201,planned,systemtest-shelf-devicemodel,systemtest-state-city-building-rack-2-device-2,systemTest,Active,Active,4bbabf9875a7835,NN-ISP,in use,NN-ISP,14,192.168.10.15
