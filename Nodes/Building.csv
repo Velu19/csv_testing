@@ -1,0 +1,10 @@
+id,clliCode,address,latitude,view,name,drivingInstructions,phoneNumber,longitude,contactPerson,notes
+13,custvel01,"velachery, 12345",12.967267,planned,customer-building-velachery,"road, metro",9876543210,80.219465,customer,velachery customer
+14,custavadil01,"Avadi, 12jdj345",13.106745,planned,customer-building-avadi,"road, metro",9876543990,80.096951,customer1,avadi customer
+15,guicochn01,"guindy, chennai, 12jdj345",13.010236,planned,tamilnadu-central-office,"road, metro",1234543990,80.215652,customer12,CO Guindy
+16,kacochn01,"electronic city, karnataka, 12jdj345",12.840711,planned,karnataka-central-office,"road, metro",1234543990,77.676369,customer12,CO electronic city
+17,tecochn01,"hyderabad, telengana, 12jdj345",17.123184,planned,telengana-central-office,"road, metro",9934543990,79.208824,customer122,CO telengana
+80,eleccty01,"electronic city, Karnataka-500058",12.840711,planned,customer-building-electronic-city,"road, metro",870000990,77.676369,customer-elec-1,CO electronic city
+85,hydbr01,"hyderabad-branch-office, hyderabad-400058",17.3840500,planned,hyderabad-branch-office,"road, metro",670320990,78.4563600,hyd-branch-support,BO hyderabad-400058
+100,custve501,"hyderabad, Telengana",12.840711,planned,hyderabad-customer-home,"road, metro",9876521670,77.676369,customer,hyderabad customer
+143,systemtest,"5/3, Nattar St, Ram Nagar, Murugapakkam, Chennai, Tamil Nadu",12.975971,,systemtest-state-city-building,"road, metro, train",systemtest,80.22120919999998,systemtest,sample systemtest building
