@@ -1,6 +1,0 @@
-id,view,name,shelfPosition,administrativeState,operationalState,slotPosition,cardPartNumber,cardModel,vendor,usageState
-96,planned,ta5000-gpon-1_card_1,1,Active,Active,1,132146789,OLT_Card,Adtran,in use
-113,planned,ta5000-gpon-1_card_2,2,Active,Active,1,132149989,OLT_Card,Adtran,in use
-153,planned,systemtest-state-city-building-rack-1-dev-2/2/1,2,unlocked,enable,1,1346789,test-1,Nokia,active
-180,planned,systemtest-state-city-building-rack-1-device-2/2/1,2,unlocked,enable,1,1346789,test-1,Nokia,active
-206,planned,systemtest-state-city-building-rack-2-device-2/2/1,2,unlocked,enable,1,1346789,test-1,Nokia,active
