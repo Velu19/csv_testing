@@ -1,0 +1,17 @@
+id,operationalState,view,name,shelfPosition,administrativeState,usageState
+88,unassigned,planned,ta5000-gpon-1_shelf_1,1,unassigned,unassigned
+89,unassigned,planned,ta5000-gpon-1_shelf_2,2,unassigned,unassigned
+90,unassigned,planned,ta5000-gpon-1_shelf_3,3,unassigned,unassigned
+91,unassigned,planned,ta5000-gpon-1_shelf_4,4,unassigned,unassigned
+92,unassigned,planned,ta5000-gpon-1_shelf_5,5,unassigned,unassigned
+93,unassigned,planned,ta5000-gpon-1_shelf_6,6,unassigned,unassigned
+94,unassigned,planned,ta5000-gpon-1_shelf_7,7,unassigned,unassigned
+149,active,planned,systemtest-state-city-building-rack-1-dev-2_shelf_1,1,active,reserved
+150,unassigned,planned,systemtest-state-city-building-rack-1-dev-2_shelf_2,2,unassigned,unassigned
+151,unassigned,planned,systemtest-state-city-building-rack-1-dev-2_shelf_3,3,unassigned,unassigned
+176,unassigned,planned,systemtest-state-city-building-rack-1-device-2_shelf_1,1,unassigned,unassigned
+177,unassigned,planned,systemtest-state-city-building-rack-1-device-2_shelf_2,2,unassigned,unassigned
+178,unassigned,planned,systemtest-state-city-building-rack-1-device-2_shelf_3,3,unassigned,unassigned
+202,active,planned,systemtest-state-city-building-rack-2-device-2_shelf_1,1,active,reserved
+203,unassigned,planned,systemtest-state-city-building-rack-2-device-2_shelf_2,2,unassigned,unassigned
+204,unassigned,planned,systemtest-state-city-building-rack-2-device-2_shelf_3,3,unassigned,unassigned
