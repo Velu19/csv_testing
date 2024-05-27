@@ -1,0 +1,18 @@
+id,deviceModel,view,partNumber,width,numOfRackPositionOccupied,allowedCardList,vendor,title,height,shelvesContained,depth
+21,nokia-ont-xs-2426g-a,planned,Nokia-ONT-XS-2426G-A,16.8,1,[],Nokia,nokia-ont-xs-2426g-a,1.25,0,17.0
+22,isam 7360 fx-4,planned,ISAM 7360 FX-4,16.8,1,"['Nokia ISAM FWLT-C', 'Nokia ISAM FGLT-B']",Nokia,isam 7360 fx-4,1.25,7,17.0
+23,isam 7360 fx-8,planned,ISAM 7360 FX-8,16.8,1,"['Nokia NGFC-F (NGFC-F)', 'Nokia NGFC-E (NGFC-E)']",Nokia,isam 7360 fx-8,1.25,11,17.0
+24,isam 7360 fx-16,planned,ISAM 7360 FX-16,16.8,1,"['Nokia ISAM FANT-F (FANT-F)', 'Nokia ISAM FANT-G (FANT-G)', 'Nokia ISAM FANT-H (FANT-H)']",Nokia,isam 7360 fx-16,1.25,19,17.0
+25,nokia-ont-xs-010x-q,planned,Nokia-ONT-XS-010X-Q,16.8,1,[],Nokia,nokia-ont-xs-010x-q,1.25,0,17.0
+26,n540-acc-sys,planned,N540-ACC-SYS,17.3,1,[],Cisco,n540-acc-sys,1.7,0,10.0
+27,ne40e-m2k-b frame,planned,NE40E-M2K-B frame,17.3,1,[],Huawei,ne40e-m2k-b frame,1.7,0,10.0
+28,ne05e-sq,planned,NE05E-SQ,17.3,1,[],Huawei,ne05e-sq,1.7,0,10.0
+29,ne20e-s2f,planned,NE20E-S2F,17.3,1,[],Huawei,ne20e-s2f,1.7,0,10.0
+30,sdx 6320,planned,SDX 6320,17.3,1,[],Adtran,sdx 6320,1.7,0,10.0
+31,c1117-4p,planned,C1117-4P,17.3,1,[],Cisco,c1117-4p,1.7,0,10.0
+32,c927-4p,planned,C927-4P,17.3,1,[],Cisco,c927-4p,1.7,0,10.0
+33,n520-4g4z-a,planned,N520-4G4Z-A,17.3,1,[],Cisco,n520-4g4z-a,1.7,0,10.0
+34,ta5000,planned,TA5000,19.0,1,"['OLT_Card', 'ADSL_CARD', 'GPON_CARD']",Adtran,ta5000,10.5,7,11.2
+99,sdx 621,planned,SDX 621,16.8,1,[],Adtran,sdx 621,1.25,0,17.0
+145,systemtest-noshelf-devicemodel,,systemtest-noShelf-deviceModel,16.8,1,[],Nokia,systemtest-noshelf-devicemodel,1.25,0,17.0
+146,systemtest-shelf-devicemodel,,systemtest-Shelf-deviceModel,16.8,4,"['test-1', '!@#$', 'TeTT-4']",Nokia,systemtest-shelf-devicemodel,1.25,3,17.0
