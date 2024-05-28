@@ -1,0 +1,12 @@
+id,ip,administrativeState,view,capacity,href,positionOnCard,operationalState,positionOnDevice,name,usageState,portSpeed
+156,10.10.10.56,Active,planned,1000,,2,Active,,systemtest-state-city-building-rack-1-dev-2/2/1/2,in use,10
+159,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-1-dev-2/8,in use,10
+160,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-1-dev-1/8,in use,10
+183,10.10.10.56,Active,planned,1000,,2,Active,,systemtest-state-city-building-rack-1-device-2/2/1/2,in use,10
+188,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-1-device-2/8,in use,10
+189,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-1-device-1/8,in use,10
+195,10.10.10.56,Active,planned,1000,,,Active,11,systemtest-state-city-building-rack-2-device-1/11,in use,10
+209,10.10.10.56,Active,planned,1000,,2,Active,,systemtest-state-city-building-rack-2-device-2/2/1/2,in use,10
+213,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-2-device-2/8,in use,10
+214,10.10.10.56,Active,planned,1000,,,Active,8,systemtest-state-city-building-rack-2-device-1/8,in use,10
+227,,Active,network,,https://192.168.29.99:8080/getPortById?id=null,,Active,8,systemtest-state-city-building-rack-1-device-1-tmf/8,in use,
