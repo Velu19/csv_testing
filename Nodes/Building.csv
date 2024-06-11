@@ -1,0 +1,10 @@
+id,name,clliCode,latitude,drivingInstructions,phoneNumber,view,contactPerson,longitude,notes,address
+13,customer-building-velachery,custvel01,12.967267,"road, metro",9876543210,planned,customer,80.219465,velachery customer,"velachery, 12345"
+14,customer-building-avadi,custavadil01,13.106745,"road, metro",9876543990,planned,customer1,80.096951,avadi customer,"Avadi, 12jdj345"
+15,tamilnadu-central-office,guicochn01,13.010236,"road, metro",1234543990,planned,customer12,80.215652,CO Guindy,"guindy, chennai, 12jdj345"
+16,karnataka-central-office,kacochn01,12.840711,"road, metro",1234543990,planned,customer12,77.676369,CO electronic city,"electronic city, karnataka, 12jdj345"
+17,telengana-central-office,tecochn01,17.123184,"road, metro",9934543990,planned,customer122,79.208824,CO telengana,"hyderabad, telengana, 12jdj345"
+80,customer-building-electronic-city,eleccty01,12.840711,"road, metro",870000990,planned,customer-elec-1,77.676369,CO electronic city,"electronic city, Karnataka-500058"
+85,hyderabad-branch-office,hydbr01,17.3840500,"road, metro",670320990,planned,hyd-branch-support,78.4563600,BO hyderabad-400058,"hyderabad-branch-office, hyderabad-400058"
+100,hyderabad-customer-home,custve501,12.840711,"road, metro",9876521670,planned,customer,77.676369,hyderabad customer,"hyderabad, Telengana"
+146,systemtest-state-city-building,systemtest,12.975971,"road, metro, train",systemtest,,systemtest,80.22120919999998,sample systemtest building,"5/3, ABC St, Ram Nagar, Murugapakkam, Chennai, Tamil Nadu"
