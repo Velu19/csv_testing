@@ -1,0 +1,4 @@
+id,name,view,type,logicalConnections,physicalConnections,operationalState,notes,administrativeState
+121,broadband-serv-1,planned,broadband,['sdx-621-1/1-to-ta5000-gpon-1/1'],['sdx-621-1-to-ta5000-gpon-1'],Active,service-1,Active
+127,ipvpn-serv-1,planned,ipvpn,['cpe-c1117-4p-2/1-to-cpe-c1117-4p-2-2/1'],"['cpe-c1117-4p-2-to-cisco-pe-2', 'cpe-c1117-4p-to-huawei-core', 'cisco-pe-2-to-cisco-core', 'huawei-core-to-cisco-core']",Active,service-2,Active
+237,systemtest-service-2,planned,ipvpn,['systemtest-state-city-building-rack-1-dev-2/7/8_to_systemtest-state-city-building-rack-1-dev-1/8/1'],"['systemtest-state-city-building-rack-1-dev-1/7_to_systemtest-state-city-building-rack-1-device-2/2/1/1', 'systemtest-state-city-building-rack-2-device-2/2/1/2_to_systemtest-state-city-building-rack-2-device-1/8']",Active,systemtest-service-1,Active
