@@ -1,0 +1,22 @@
+id,name,positionOnPort,usageState,positionOnCard,portType,ip,href,view,portSpeed,operationalState,positionOnDevice,administrativeState
+118,ta5000-gpon-1_card_1_1_1,1,in use,1,gpon,,,planned,,Active,,Active
+119,sdx-621-1-plug-1_1_1,1,in use,,gpon,,,planned,,Active,1,Active
+124,cpe-c1117-4p-2/1,1,in use,,gpon,,,planned,,Active,2,Active
+125,cpe-c1117-4p2/1,1,in use,,gpon,,,planned,,Active,2,Active
+170,systemtest-state-city-building-rack-1-dev-1/8/1,1,in use,,gpon,10.10.10.56,,planned,10,Active,8,Active
+171,systemtest-state-city-building-rack-1-dev-1/7/6,6,in use,,gpon,10.10.10.56,,planned,10,Active,7,Active
+172,systemtest-state-city-building-rack-1-dev-2/2/1/2/1,1,in use,2,gpon,10.10.10.56,,planned,10,Active,,Active
+173,systemtest-state-city-building-rack-1-dev-2/2/1/1/8,8,in use,1,gpon,10.10.10.56,,planned,10,Active,,Active
+175,systemtest-state-city-building-rack-1-device-1-tmf/8/1,1,in use,,gpon,10.10.10.56,https://192.168.29.99:8080/getLogicalPortById?id=null,planned,10,Active,8,Active
+196,systemtest-state-city-building-rack-1-dev-2/7/8,8,in use,,gpon,10.10.10.56,,planned,10,Active,7,Active
+198,systemtest-state-city-building-rack-1-device-1/8/1,1,in use,,gpon,10.10.10.56,,planned,10,Active,8,Active
+199,systemtest-state-city-building-rack-1-device-1/7/6,6,in use,,gpon,10.10.10.56,,planned,10,Active,7,Active
+200,systemtest-state-city-building-rack-1-device-2/2/1/2/1,1,in use,2,gpon,10.10.10.56,,planned,10,Active,,Active
+201,systemtest-state-city-building-rack-1-device-2/2/1/1/8,8,in use,1,gpon,10.10.10.56,,planned,10,Active,,Active
+203,systemtest-state-city-building-rack-1-device-1-tmf/8/1,1,in use,,gpon,10.10.10.56,https://192.168.29.99:8080/getLogicalPortById?id=null,network,10,Active,8,Active
+206,systemtest-state-city-building-rack-1-device-1-tmf/7/6,6,in use,,gpon,10.10.10.56,https://192.168.29.99:8080/getLogicalPortById?id=null,planned,10,Active,7,Active
+225,systemtest-state-city-building-rack-2-device-1/8/1,1,in use,,gpon,10.10.10.56,,planned,10,Active,8,Active
+226,systemtest-state-city-building-rack-2-device-1/7/6,6,in use,,gpon,10.10.10.56,,planned,10,Active,7,Active
+232,systemtest-state-city-building-rack-2-device-2/2/1/2/1,1,in use,2,gpon,10.10.10.56,,planned,10,Active,,Active
+233,systemtest-state-city-building-rack-2-device-2/2/1/1/8,8,in use,1,gpon,10.10.10.56,,planned,10,Active,,Active
+238,systemtest-state-city-building-rack-1-device-1-tmf/7/6,6,in use,,gpon,10.10.10.56,https://192.168.29.99:8080/getLogicalPortById?id=null,network,10,Active,7,Active
