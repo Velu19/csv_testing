@@ -1,0 +1,13 @@
+id,name,usageState,positionOnCard,ip,href,view,portSpeed,operationalState,capacity,positionOnDevice,administrativeState
+163,systemtest-state-city-building-rack-1-dev-2/2/1/2,in use,2,10.10.10.56,,planned,10,Active,1000,,Active
+167,systemtest-state-city-building-rack-1-dev-2/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+168,systemtest-state-city-building-rack-1-dev-1/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+176,systemtest-state-city-building-rack-1-device-1-tmf/8,in use,,10.10.10.56,https://192.168.29.99:8080/getPortById?id=null,planned,10,Active,1000,8,Active
+191,systemtest-state-city-building-rack-1-device-2/2/1/2,in use,2,10.10.10.56,,planned,10,Active,1000,,Active
+194,systemtest-state-city-building-rack-1-device-2/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+197,systemtest-state-city-building-rack-1-device-1/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+204,systemtest-state-city-building-rack-1-device-1-tmf/8,in use,,10.10.10.56,https://192.168.29.99:8080/getPortById?id=null,network,10,Active,1000,8,Active
+218,systemtest-state-city-building-rack-2-device-2/2/1/2,in use,2,10.10.10.56,,planned,10,Active,1000,,Active
+223,systemtest-state-city-building-rack-2-device-2/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+224,systemtest-state-city-building-rack-2-device-1/8,in use,,10.10.10.56,,planned,10,Active,1000,8,Active
+242,systemtest-state-city-building-rack-2-device-1/11,in use,,10.10.10.56,,planned,10,Active,1000,11,Active
