@@ -1,0 +1,9 @@
+id,name,usageState,slotPosition,view,operationalState,administrativeState
+97,ta5000-gpon-1_card_1/1,in use,1,planned,Active,Active
+114,ta5000-gpon-1_card_2/1,in use,1,planned,Active,Active
+159,systemtest-state-city-building-rack-1-dev-2/2/1/1,in use,1,planned,Active,Active
+161,systemtest-state-city-building-rack-1-dev-2/2/1/2,in use,2,planned,Active,Active
+188,systemtest-state-city-building-rack-1-device-2/2/1/1,in use,1,planned,Active,Active
+190,systemtest-state-city-building-rack-1-device-2/2/1/2,in use,2,planned,Active,Active
+215,systemtest-state-city-building-rack-2-device-2/2/1/1,in use,1,planned,Active,Active
+217,systemtest-state-city-building-rack-2-device-2/2/1/2,in use,2,planned,Active,Active
