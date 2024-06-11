@@ -1,0 +1,7 @@
+id,name,usageState,slotPosition,view,operationalState,administrativeState
+95,ta5000-gpon-1/1/1,in use,1,planned,Active,Active
+112,ta5000-gpon-1/2/1,in use,1,planned,Active,Active
+129,ta5000-gpon-1/1/1,free,1,simulated,active,active
+156,systemtest-state-city-building-rack-1-dev-2/2/1,active,1,planned,enable,unlocked
+184,systemtest-state-city-building-rack-1-device-2/2/1,active,1,planned,enable,unlocked
+213,systemtest-state-city-building-rack-2-device-2/2/1,active,1,planned,enable,unlocked
